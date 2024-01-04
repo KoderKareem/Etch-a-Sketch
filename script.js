@@ -50,8 +50,3 @@ function btnClicked(e) {
     alert("please Enter below 573");
   }
 }
-
-// const divsInsideContainer = container.querySelectorAll("div");
-// divsInsideContainer.forEach((div) => {
-//   div.remove();
-// });
