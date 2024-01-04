@@ -1,0 +1,29 @@
+/* *{
+    border: solid 1px rgb(25, 25, 175) ;
+} */
+body{
+    background-color: rgb(253, 248, 240);
+}
+#container{
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(218, 202, 201);
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+    flex-wrap: wrap;
+
+}
+.box{
+   background-color: rgb(0, 0, 0);
+   width: 16px;
+   height: 16px;
+}
+.box:hover{
+    background-color: rgb(251, 255, 11);
+}
+/* .changeColor{
+    background-color: rgb(248, 51, 2);
+} */
